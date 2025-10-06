@@ -179,4 +179,4 @@ It’s beginner-friendly, visually engaging, and a great introduction to Python 
 
 ---
 
-Would you like me to create a **shorter student-report version** (like a one-page practical record write-up)?
+
