@@ -1,4 +1,4 @@
-# HexSoftwares_Project_MEMORY-PUZZLE-GAME
+# MEMORY-PUZZLE-GAME
 Sure 😊 Here’s a **formatted explanation** for your **Memory Puzzle Game** — just like the rent calculation example you showed.
 
 ---
