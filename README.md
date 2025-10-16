@@ -1,7 +1,5 @@
 # MEMORY-PUZZLE-GAME
-Sure 😊 Here’s a **formatted explanation** for your **Memory Puzzle Game** — just like the rent calculation example you showed.
 
----
 
 ## 🧠 Memory Puzzle Game
 
